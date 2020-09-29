@@ -8,6 +8,7 @@ main {
     display: inline-block;
     width: 600px;
     height: 500px;
+    margin-left: 250px;
 }
 header.title {
     text-align: center;

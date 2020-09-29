@@ -5,7 +5,8 @@ h2.subtitle {
     border-color: cadetblue;
 }
 div.main {
-    margin: 
+    display: inline-block;
+
 }
 header.title {
     text-align: center;
@@ -13,4 +14,9 @@ header.title {
 }
 header.title {
     background-color: blue;
+}
+div.box {
+    display: inline-block;
+    width: 600px;
+    height: 500px;
 }

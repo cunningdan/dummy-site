@@ -1,5 +1,8 @@
 h3.subtitle {
     text-align: center;
+    border-top-style: solid;
+    border-width: 20px;
+    border-color: cadetblue;
 }
 div.main {
     margin: 
@@ -10,4 +13,7 @@ header.title {
 }
 header.title {
     background-color: blue;
+}
+h2.subtitle {
+    border-top : solid
 }

@@ -4,7 +4,7 @@ h2.subtitle {
     border-width: 20px;
     border-color: cadetblue;
 }
-div.main {
+#main {
     display: inline-block;
     width: 600px;
     height: 500px;

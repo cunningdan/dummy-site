@@ -2,11 +2,11 @@ h2.subtitle {
     text-align: center;
     border-top-style: solid;
     border-width: 20px;
-    border-color: cadetblue;
+    border-color: cornflowerblue;
 }
 main {
     display: inline-block;
-    width: 600px;
+    width: 350px;
     height: 500px;
     margin-left: 250px;
 }
@@ -20,8 +20,11 @@ header.title {
 div.box {
     display: inline-block;
     width: 600px;
-    height: 500px;
+    height: 75px;
 }
 div.side {
     font-size: 10px;
+}
+footer {
+    background-color: cornflowerblue;
 }

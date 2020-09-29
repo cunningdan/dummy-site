@@ -6,7 +6,8 @@ h2.subtitle {
 }
 div.main {
     display: inline-block;
-
+    width: 600px;
+    height: 500px;
 }
 header.title {
     text-align: center;

@@ -1,6 +1,13 @@
-div.main {
+h3.subtitle {
     text-align: center;
 }
-span {
-    text-emphasis: weight; 50
+div.main {
+    margin: 
+}
+header.title {
+    text-align: center;
+    color : white
+}
+header {
+    border-color :blue
 }

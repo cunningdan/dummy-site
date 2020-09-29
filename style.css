@@ -26,5 +26,6 @@ div.side {
     font-size: 10px;
 }
 footer {
+    box-sizing: content-box;
     background-color: cornflowerblue;
 }
